@@ -1,0 +1,30 @@
+2021/02/25-13:26:32.932 648c Reusing MANIFEST C:\Users\hp\Desktop\Django\test\src\whatsapp_Bulk\User_Data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/25-13:26:32.933 648c Recovering log #69
+2021/02/25-13:26:33.167 648c Reusing old log C:\Users\hp\Desktop\Django\test\src\whatsapp_Bulk\User_Data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000069.log 
+2021/02/25-13:26:37.444 2394 Level-0 table #74: started
+2021/02/25-13:26:37.727 2394 Level-0 table #74: 1149576 bytes OK
+2021/02/25-13:26:37.765 2394 Delete type=0 #69
+2021/02/25-13:26:42.118 648c Compacting 1@1 + 1@2 files
+2021/02/25-13:26:42.349 648c Generated table #75@1: 18499 keys, 743214 bytes
+2021/02/25-13:26:42.349 648c Compacted 1@1 + 1@2 files => 743214 bytes
+2021/02/25-13:26:42.534 648c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/25-13:26:42.534 648c Delete type=2 #71
+2021/02/25-13:26:42.535 648c Delete type=2 #74
+2021/02/25-13:26:42.536 3c90 Level-0 table #77: started
+2021/02/25-13:26:42.864 3c90 Level-0 table #77: 1236995 bytes OK
+2021/02/25-13:26:42.910 3c90 Delete type=0 #73
+2021/02/25-13:26:50.103 55a0 Compacting 1@1 + 1@2 files
+2021/02/25-13:26:50.492 55a0 Generated table #78@1: 18450 keys, 833192 bytes
+2021/02/25-13:26:50.492 55a0 Compacted 1@1 + 1@2 files => 833192 bytes
+2021/02/25-13:26:50.530 55a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/25-13:26:50.530 55a0 Delete type=2 #75
+2021/02/25-13:26:50.530 55a0 Delete type=2 #77
+2021/02/25-13:29:57.949 4a08 Level-0 table #80: started
+2021/02/25-13:29:58.234 4a08 Level-0 table #80: 1047723 bytes OK
+2021/02/25-13:29:58.289 4a08 Delete type=0 #76
+2021/02/25-13:29:58.295 658c Compacting 1@1 + 1@2 files
+2021/02/25-13:29:58.513 658c Generated table #81@1: 9065 keys, 377885 bytes
+2021/02/25-13:29:58.513 658c Compacted 1@1 + 1@2 files => 377885 bytes
+2021/02/25-13:29:58.544 658c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/25-13:29:58.545 658c Delete type=2 #78
+2021/02/25-13:29:58.545 658c Delete type=2 #80
